@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: OfficeCodeProD-Bold
+font link: https://github.com/nathco/Office-Code-Pro
+font author: Nathan Rutzky
+font author site: https://nath.co/
+
+
+icon designer: Timur Nusharov
+icon designer link: /timur.nusharov
+        
+
+fontColor: {"hex":"#000000"}
+bgColor: {"hex":"#FFFFFF"}
+iconColor: {"hex":"#000000"}
+
+      
